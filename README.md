@@ -4,7 +4,7 @@ For example the bokeh scatterplot: that allows hovering over the data. This can 
 cluster of text data after vectorization and clustering.
 ```
 Note that bokeh uses JavaScript and GitHub does not preview it. 
-Therefore, some plots are not visible in the notebooks.
+Therefore, some plots are not visible in the notebooks while on GitHub.
 ```
 ### Example: Bokeh Scatterplot
 + Often used in the NLP setting, to allow hovering over vectorized tokens / words

@@ -8,6 +8,7 @@ Therefore, some plots are not visible in the notebooks while on GitHub.
 ```
 ### Example: Bokeh Scatterplot
 + Often used in the NLP setting, to allow hovering over vectorized tokens / words
++ Arbitrary text and column(s) of the input matrix X can be used for tooltips
 + Can also be used for simple position reading
 
 ![Example](assets/bokeh_scatterplot.PNG)
